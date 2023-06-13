@@ -1,0 +1,5 @@
+In Java all code are case-sentitive
+Key words -> reserved words, that have predefined meaning in Java language (ex: int, char, boolean, if, else, switch)
+Variable -> way to store information in the computer
+Declaration statement -> define a variable indicating datatype and name then optionally set variable a specific value (ex): int myFirstNum = 5;
+Re-declaring a varibale will throw error (Ex): int x=5; int x=10;
